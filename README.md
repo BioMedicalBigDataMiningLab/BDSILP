@@ -1,6 +1,6 @@
 # BDSILP
 This is the code for the paper "The Bi-Direction Similarity Integration Method for Predicting Microbe-Disease Associations."
-#please cite:
+# please cite:
 @ARTICLE{8400513,  
  author={W. {Zhang} and W. {Yang} and X. {Lu} and F. {Huang} and F. {Luo}},  
  journal={IEEE Access},   
